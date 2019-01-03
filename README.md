@@ -80,10 +80,10 @@ Requisitos não funcionais
 tanto deve ter um sistema de cache.
 
 
-RNF2 – o sistema deve evitar repetição desnecessária de código.
+<b>DONE</b> - RNF2 – o sistema deve evitar repetição desnecessária de código.
 
 
-RNF3 – o sistema deve estar preparado para ser expandido sem a necessidade de muitas
+<b>DONE</b> - RNF3 – o sistema deve estar preparado para ser expandido sem a necessidade de muitas
 mudanças no código que já está em funcionamento.
 
 
